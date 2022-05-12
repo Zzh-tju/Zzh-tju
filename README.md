@@ -7,7 +7,7 @@
 
 <samp>
   
-:mortar_board: I’m currently a first-year PhD student supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net) in Nankai University.
+:mortar_board: I’m currently a first-year PhD student supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net) at Nankai University.
   
 :laughing: My research interests are object detection, instance segmentation and knowledge distillation.
   
