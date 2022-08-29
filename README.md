@@ -12,7 +12,7 @@
   
 :laughing: My research interests are object detection, instance segmentation and knowledge distillation.
   
-:page_with_curl: All my research works: [Google scholar](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=zh-CN&oi=ao)
+:page_with_curl: All my research works: [Google scholar](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=zh-CN&oi=ao)  [sc.panda321](https://sc.panda321.com/citations?user=0X71NDYAAAAJ&hl=zh-CN&oi=sra)
   
 :mailbox: Email contact: zh_zheng@mail.nankai.edu.cn
   
