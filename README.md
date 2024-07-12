@@ -15,5 +15,7 @@
 :page_with_curl: [My homepage](https://zzh-tju.github.io/).
   
 :mailbox: Email contact: zh_zheng@mail.nankai.edu.cn
-  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zzh-tju&show_icons=true&theme=graywhite&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+$~$
 </samp>
