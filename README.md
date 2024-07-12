@@ -18,4 +18,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Zzh-tju&show_icons=true&theme=graywhite&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 $~$
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zzh-tju&theme=graywhite&layout=compact&langs_count=6&card_width=360)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Zzh-tju.Zzh-tju)
 </samp>
