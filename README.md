@@ -8,9 +8,9 @@
 
 <samp>
   
-:mortar_board: I’m currently a four-year PhD student supervised by [Prof. Ming-Ming Cheng](https://mmcheng.net) in Nankai University.
+:mortar_board: I’m currently a postdoctoral fellow at the HK PolyU.
   
-:laughing: My research interests are object detection, instance segmentation and knowledge distillation.
+:laughing: My research interests are visual-language models and object detection.
   
 :page_with_curl: [My homepage](https://zzh-tju.github.io/).
   
